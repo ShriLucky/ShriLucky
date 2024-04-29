@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shree Lakshmi
 - 👀 I’m interested in computer
-- 🌱 I’m currently learning AWS,LINUX
+- 🌱 I’m currently learning HTML,CSS,React
 - 💞️ I’m looking to collaborate on projects to learn and evolve in technology
 - 📫 Please drop me a mail @ shreelakshmipatil3@gmail.com
 
